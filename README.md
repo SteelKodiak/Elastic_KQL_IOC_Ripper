@@ -5,12 +5,12 @@ Elastic_ELK_KQL_IOC_Ripper is a powerful Python tool designed to streamline the 
 
 With an ability to handle even the most unstructured and cluttered data, it automatically parses and categorizes IOCs such as SHA-256 hashes, MD-5 hashes, IP addresses, URLs, domains, and emails into a clean, user-friendly format. 
 
-This makes it an invaluable resource for cybersecurity analysts and enthusiasts looking to enhance their Splunk data analysis workflows.
+This makes it an invaluable resource for cybersecurity analysts and enthusiasts looking to enhance their Elastic/ELK data analysis workflows.
 
 ## Features
 - **Automatic Parsing:** Effortlessly extract IOCs from a chaotic mix of text and non-IOC alphanumeric characters.
 - **Support for Multiple Sources:** Process IOCs from plain text files, CSVs, PDFs, and URLs with ease.
-- **User-Friendly Outputs:** Generate organized lists of IOCs suitable for immediate use in Splunk.
+- **User-Friendly Outputs:** Generate organized lists of IOCs suitable for immediate use in Elastic/ELK.
 - **Flexible Input Handling:** Accepts raw data input through text files, allowing for quick copy-paste operations.
 - **Secure URL Processing:** Automatically converts HTTP URLs to HTTPS for enhanced security.
 
