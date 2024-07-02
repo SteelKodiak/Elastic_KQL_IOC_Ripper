@@ -4,7 +4,7 @@ will now be able to specifiy a document and have an immediate output to paste in
 webpage.
 """
 
-# AUTHOR: https://github.com/SqlProgrammer55
+# AUTHOR: https://github.com/SteelKodiak
 
 import pandas as pd
 from datetime import datetime
